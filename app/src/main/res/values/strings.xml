@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login and Register Test</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_register">Registrar</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+    <string name="app_close">Salir</string>
+</resources>
